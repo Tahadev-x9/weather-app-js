@@ -47,6 +47,8 @@ const API_KEY = "YOUR_API_KEY";
 ## 🎯 What I Learned
 
 - Working with APIs using Fetch API
+- Working with submit handler to perform button function in ui
+- Styling via best edit or ai 
 - Async/Await in JavaScript
 - Handling user input and events
 - DOM manipulation
