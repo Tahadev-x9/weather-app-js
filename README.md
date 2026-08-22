@@ -54,5 +54,7 @@ const API_KEY = "YOUR_API_KEY";
 - DOM manipulation
 - Error handling
 - Responsive web design
+- Basic api functions
+- All fucntion of java script 
 
 ---
