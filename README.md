@@ -18,14 +18,6 @@ TAHA DEV FD
 
 ---
 
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- OpenWeather API
-
----
 
 ## 🔑 API
 
@@ -59,3 +51,36 @@ const API_KEY = "YOUR_API_KEY";
 - All fucntion of java script 
 
 ---
+
+ ## 🌦️ How Weather API Works
+
+This project uses a Weather API to fetch real-time weather information for a searched city.
+
+🔄 Working Process
+User enters a city name
+Example: Karachi
+JavaScript sends an API request
+The city name and API key are sent to the weather API.
+API finds the weather data
+The server returns information such as:
+🌡️ Temperature
+💧 Humidity
+💨 Wind Speed
+☁️ Weather Condition
+JavaScript processes the response
+The received JSON data is extracted and displayed.
+Weather information appears on the UI
+The user can see the current weather of the searched city.
+🧠 Simple Flow
+
+User → JavaScript → Weather API → JSON Response → Display Weather
+
+ ## 🛠️ Technologies
+HTML
+CSS
+JavaScript
+Weather API
+Fetch API
+
+
+
