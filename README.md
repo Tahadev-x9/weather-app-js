@@ -65,6 +65,10 @@ API finds the weather data
 The server returns information such as:
 🌡️ Temperature
 💧 Humidity
+air
+wind electrix
+speed
+constant
 💨 Wind Speed
 ☁️ Weather Condition
 JavaScript processes the response
