@@ -22,6 +22,7 @@ TAHA DEV FD
 ## 🔑 API
 
 This project uses the **OpenWeather API** to retrieve live weather information.
+It s basically for fetch api and calling save function only. 
 
 To use your own API key:
 
