@@ -2,8 +2,7 @@
  weather api. rest of the netlify app 
 
 
-
- 
+responsive and best use and better usjzges 
 A simple and responsive Weather App built using **HTML, CSS, and JavaScript**. 
 This application fetches real-time weather data from the OpenWeather API and displays current weather information for 
 any city entered by the user.
